@@ -5,6 +5,7 @@ public class Test {
 		System.out.println("Hello git");
 		System.out.println("Done with first checkin");
 		System.out.println("Repository created");
+		System.out.println("more changes");
 	}
 
 }
